@@ -5,7 +5,9 @@ Entropy algorithms are a valuable tool in analyzing dynamic signals, particularl
 work aims to reproduce and extend previous research using a Fuzzy Entropy algorithm by confirming specific results and evaluating the optimization of a MF-specific threshold.
 
 "Fuz.m" is a function that outputs the fuzzy entropy measurement.
+
 "plots.m" and "optimal.m" output the results present in the report.
+
 Run "Programa.m" to easily compute the entropy value under user-defined parameters. 
 
 Feel free to contact me for the full pdf report on this work, or any additional questions. 
